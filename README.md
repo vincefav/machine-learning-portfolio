@@ -22,3 +22,9 @@ Uses natural language processing to identify people’s personalities along 5 di
 ![12 Kinds of People](https://i1.wp.com/databrain.org/wp-content/uploads/2017/01/Clusters.png?resize=1024%2C487)
 
 Continuing with what we learned from the personality predictor, this project takes unstructured data in the form of entertainment preferences, and clusters people into 12 key groups.
+ 
+# 
+ 
+## Factor Analysis
+
+Did you know you can perform a cluster analysis on your features just like you can with observations? This notebook explains how. (Warning: contains statistical wizardry.)
