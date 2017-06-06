@@ -28,3 +28,10 @@ Continuing with what we learned from the personality predictor, this project tak
 ## Factor Analysis
 
 Did you know you can perform a cluster analysis on your features just like you can with observations? This notebook explains how. (Warning: contains statistical wizardry.)
+
+#
+
+## Pandemic
+
+Running a statistical analysis to see how to win at one of my favorite board games.
+
