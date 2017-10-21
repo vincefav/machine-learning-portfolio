@@ -13,7 +13,8 @@ A model that predicts employee retention at IBM. Uses a stacked model to obtain 
 
 ![Personality Predictor](https://i1.wp.com/databrain.org/wp-content/uploads/2017/01/extraverts-1.png?w=618)
 
-Uses natural language processing to identify people’s personalities along 5 dimensions.
+Uses natural language processing to identify people’s personalities along 5 dimensions. Predicts Barack Obama’s and James Bond’s personalities based on short biographies. Obtains f-1 scores in the range of 0.55 to 0.70.
+
  
 # 
 
