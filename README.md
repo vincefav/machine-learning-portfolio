@@ -1,5 +1,14 @@
 # Machine Learning Portfolio
 
+## HR Analytics (IBM)
+
+![HR Analytics (IBM)](http://databrain.org/wp-content/uploads/2017/10/ibm.png?resize=768%2C447)
+
+A model that predicts employee retention at IBM. Uses a stacked model to obtain a ROC-AUC score of 0.848.
+ 
+ 
+# 
+
 ## Hacking_Happiness
 
 ![Hacking Happiness](https://i0.wp.com/databrain.org/wp-content/uploads/2017/01/happy.png?resize=768%2C447)
