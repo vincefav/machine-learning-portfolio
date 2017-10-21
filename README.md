@@ -9,20 +9,20 @@ A model that predicts employee retention at IBM. Uses a stacked model to obtain 
  
 # 
 
+## Personality Predictor
+
+![Personality Predictor](https://i1.wp.com/databrain.org/wp-content/uploads/2017/01/extraverts-1.png?w=618)
+
+Uses natural language processing to identify people’s personalities along 5 dimensions.
+ 
+# 
+
 ## Hacking_Happiness
 
 ![Hacking Happiness](https://i0.wp.com/databrain.org/wp-content/uploads/2017/01/happy.png?resize=768%2C447)
 
 A record of my daily mood and my behaviors. Using data to figure out what makes me happy! (Predictive model achieves an r-squared score of 0.806)
  
- 
-# 
-
-## Personality Predictor
-
-![Personality Predictor](https://i1.wp.com/databrain.org/wp-content/uploads/2017/01/extraverts-1.png?w=618)
-
-Uses natural language processing to identify people’s personalities along 5 dimensions.
  
 # 
  
