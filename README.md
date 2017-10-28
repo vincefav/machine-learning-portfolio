@@ -2,7 +2,7 @@
 
 ## HR Analytics (IBM)
 
-![HR Analytics (IBM)](http://databrain.org/wp-content/uploads/2017/10/ibm.png?resize=768%2C447)
+![HR Analytics (IBM)](https://i.imgur.com/FRY0DT2.png)
 
 A model that predicts employee retention at IBM. Uses a stacked model to obtain a ROC-AUC score of 0.848.
  
@@ -11,7 +11,7 @@ A model that predicts employee retention at IBM. Uses a stacked model to obtain 
 
 ## Personality Predictor
 
-![Personality Predictor](https://i1.wp.com/databrain.org/wp-content/uploads/2017/01/extraverts-1.png?w=618)
+![Personality Predictor](https://i.imgur.com/3yRC9Pn.png)
 
 Uses natural language processing to identify people’s personalities along 5 dimensions. Predicts Barack Obama’s and James Bond’s personalities based on short biographies. Obtains f-1 scores in the range of 0.55 to 0.70.
 
@@ -20,7 +20,7 @@ Uses natural language processing to identify people’s personalities along 5 di
 
 ## Hacking_Happiness
 
-![Hacking Happiness](https://i0.wp.com/databrain.org/wp-content/uploads/2017/01/happy.png?resize=768%2C447)
+![Hacking Happiness](https://i.imgur.com/Jdeefxz.png)
 
 A record of my daily mood and my behaviors. Using data to figure out what makes me happy! (Predictive model achieves an r-squared score of 0.806)
  
@@ -29,7 +29,7 @@ A record of my daily mood and my behaviors. Using data to figure out what makes 
  
 ## 12 Kinds of People
 
-![12 Kinds of People](https://i1.wp.com/databrain.org/wp-content/uploads/2017/01/Clusters.png?resize=1024%2C487)
+![12 Kinds of People](https://i.imgur.com/uJmAWFJ.png)
 
 Continuing with what we learned from the personality predictor, this project takes unstructured data in the form of entertainment preferences, and clusters people into 12 key groups.
  
@@ -37,7 +37,7 @@ Continuing with what we learned from the personality predictor, this project tak
  
 ## Factor Analysis
 
-Did you know you can perform a cluster analysis on your features just like you can with observations? This notebook explains how. (Warning: contains statistical wizardry.)
+Did you know you can perform a cluster analysis on your features just like you can with observations? This notebook explains how to make your psychometric measurements more reliable.
 
 #
 
